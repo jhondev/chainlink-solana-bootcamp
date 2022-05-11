@@ -1,4 +1,4 @@
-/target
+target/
 /Cargo.lock
 test-ledger/
 # Created by https://www.toptal.com/developers/gitignore/api/node
